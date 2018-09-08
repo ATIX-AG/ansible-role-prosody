@@ -40,6 +40,7 @@ prosody_external_modules:
   - c2s_conn_throttle
   - c2s_limit_sessions
   - cloud_notify
+  - conversejs
   - csi
   - filter_chatstates
   - host_guard
