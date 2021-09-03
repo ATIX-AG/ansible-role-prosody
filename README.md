@@ -12,6 +12,12 @@ Tested with Molecule, Docker, Vagrant and TravisCI.
 
 [Deploying Prosody using orcharhino](https://docs.orcharhino.com/or/docs/sources/usage_guides/deploying_an_internal_application_guide.html)
 
+This forked Ansible role is purely for demo purposes.
+It is not suited for production.
+
+Thanks to [Systemli](https://github.com/systemli) for providing the Ansible role to install and configure Prosody.
+The `atix-master` branch serves as an example in the orcharhino documentation.
+
 Requirements
 ------------
 
